@@ -1,8 +1,10 @@
-# Mejorando - Aplicación de Búsqueda de Personajes
+# Rick and Morty - Aplicación de Búsqueda de Personajes
 
-![Mejorando App](./imagenes/info.jpg)
+![Rick and Morty App](./imagenes/info.jpg)
 
 Esta aplicación web permite buscar y explorar personajes de la serie de televisión "Rick and Morty". Los usuarios pueden realizar búsquedas filtradas por nombre, especie, género y estado, y navegar por los resultados de la búsqueda. Además, la aplicación presenta una vista detallada de los personajes seleccionados.
+## Deploy 
+Link para ir al deploy [ir ala pagina](https://lovely-taffy-f5a3d9.netlify.app/)
 
 ## Características
 
