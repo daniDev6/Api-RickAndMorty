@@ -13,8 +13,8 @@ Esta aplicación web permite buscar y explorar personajes de la serie de televis
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](./capturaPortada)
-![Captura de Pantalla 2](./capturaCard)
+![Captura de Pantalla 1](./capturaPortada.png)
+![Captura de Pantalla 2](./capturaCard.png)
 
 
 ## Tecnologías Utilizadas
