@@ -46,4 +46,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENS
 
 ---
 
-Derechos de autor © 2022. Todos los derechos reservados.
+Derechos de autor © 2024. Todos los derechos reservados.
